@@ -1,6 +1,6 @@
 #include <game.h>
 
-Display::Display(): user_name("Unknown"), level("Terrestrial"), stpes (0), energy (15)
+Display::Display(): user_name("Unknown"), level("Terrestrial"), steps (0), energy (15)
 {
 }
 
